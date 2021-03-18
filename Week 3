@@ -1,0 +1,33 @@
+# week-report
+#주요기능 및 구현방법 조사
+주요 기능 
+★일정에 맞춰서 날씨 알림★
+- 날씨에 맞춰서 문구 알림 : 잠금화면 or 배너
+  ex. 비올땐 배너 혹은 잠금화면에 우산챙기라고 나타내는 등등
+- 날씨에 맞춰서 코디 추천
+  +a 온도에 맞게 쇼핑몰 어플과 연동시키게 만든다.
+
+어플 이름 : 날씨봐!
+º날짜 api 사용할예정
+https://hydroponicglass.tistory.com/198
+º안드로이드 스튜디오로 aip 불러오기
+https://applied-in-dimigo.tistory.com/12?category=1058054
+º안드로이스 스튜디오에있는 
+https://gameprograming.tistory.com/m/121
+º현재 위치 설정 받기
+https://developer.android.com/training/location/change-location-settings?hl=ko
+º캘린더연동하기
+http://blog.naver.com/PostView.nhn?blogId=horajjan&logNo=220793043852&parentCategoryNo=&categoryNo=10&viewDate=&isShowPopularPosts=true&from=search
+º푸시알람
+https://m.blog.naver.com/PostView.nhn?blogId=kimsh2244&logNo=221066872095&proxyReferer=https:%2F%2Fwww.google.com%2F
+º날씨 알려주는 알림
+https://iamcodecraft.tistory.com/m/16?category=702128
+º날씨 데이터 받기
+http://warguss.blogspot.com/2016/01/openweather-2.html
+기존에 있는 어플 기능
+1.기존에는 시간별, 날짜별로 온도 자세하게는 습도 정도만 나타내고 있다.
+2. 알고싶은 gps 위치 바로 근처에 관측된 동네 날씨를 알 수 있다.
+3. 체감온도가 몇도인지 알 수 있다.
+4. 미세먼지 & 초미세먼지만 나타내는 어플
+5. 기온에 따른 코디를 일러스트로 보여준다.
+6. 오늘 주변을 찍어 날씨와 함꼐 sns에 올리는 어플
