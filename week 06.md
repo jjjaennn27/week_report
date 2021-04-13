@@ -107,7 +107,7 @@
 문구가 나오게 된다. 반려동물의 건강 정보를 등록하기 위해서는 하단 등록 버튼을 클릭하면 된다. 
 
 ## [스토리보드 작성] - 반려동물 돌봄 체크 3
-<img width="1000" alt="KakaoTalk_20210410_011924517" src="https://user-images.githubusercontent.com/79950103/114213917-9cd4b400-999e-11eb-92da-4db6d58749ae.png">
+![KakaoTalk_20210410_014447641](https://user-images.githubusercontent.com/79950103/114525251-ebc16880-9c80-11eb-96ab-5ea37c617db4.jpg)
 
 **1. 날짜 클릭 - YES 정보**
 * 반려동물의 건강 정보를 등록하기 위해서 등록 버튼을 눌렀을 때 나오는 화면이다.   
