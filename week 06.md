@@ -160,7 +160,7 @@
 * 회원가입시 입력했던 정보들은 데이터베이스에 저장된다.
 
 ## [UI 디자인 1]
-<img width="353" alt="KakaoTalk_20210413_174038083" src="https://user-images.githubusercontent.com/79950103/114523647-6f7a5580-9c7f-11eb-84f0-88223bcffdd6.png">
+<img width="600" alt="KakaoTalk_20210413_174038083" src="https://user-images.githubusercontent.com/79950103/114523647-6f7a5580-9c7f-11eb-84f0-88223bcffdd6.png">
 
 **반려동물 등록 화면 디자인**
 * 처음 로그인을 하고난 후 반려동물을 등록하고 반려동물의 정보를 기입하는 화면을 디자인 한 것이다.   
