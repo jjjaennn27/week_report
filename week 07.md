@@ -42,7 +42,7 @@
 - 동물을 등록 시 메인화면에 지정한 동물의 사진이 등록
 
 **메인화면**<br/><br/>
-<img src="https://user-images.githubusercontent.com/72747781/115201080-e015ec00-a12f-11eb-8745-820b482c6eab.png" height="700px"></img>
+<img src="https://user-images.githubusercontent.com/72747781/115201080-e015ec00-a12f-11eb-8745-820b482c6eab.png" height="600px"></img>
 
 - 동물을 등록 시 메인화면에 지정한 동물의 사진이 등록
 - 하단 부분엔 간식,산책,밥,건강의 정보 저장 기능 구현
@@ -54,6 +54,8 @@
 
 **동물건강등록**<br/>
 <img src="https://user-images.githubusercontent.com/72747781/115201683-91b51d00-a130-11eb-9ba4-6d147b908d12.png" height="600px"></img>
+
+- 건강 버튼을 클릭 시 자신이 등록하고자 하는 건강에 관한 정보들을 저장 가능
 
 - ### 핸드폰 카메라 연동시켜 사진찍기
 
