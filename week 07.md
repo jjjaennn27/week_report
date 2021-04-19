@@ -38,15 +38,22 @@
 
 **동물정보등록**<br/>
 <img src="https://user-images.githubusercontent.com/72747781/115200814-94634280-a12f-11eb-9e12-a2ac570b36ed.png" height="700px"></img>
+- 메인화면에 들어왔을때 반려동물이 없는경우 등록하기 버튼을 눌러 등록
+- 동물을 등록 시 메인화면에 지정한 동물의 사진이 등록
 
 **메인화면**<br/><br/>
-<img src="https://user-images.githubusercontent.com/72747781/115201080-e015ec00-a12f-11eb-8745-820b482c6eab.png" height="700px"></img><br/>
+<img src="https://user-images.githubusercontent.com/72747781/115201080-e015ec00-a12f-11eb-8745-820b482c6eab.png" height="700px"></img>
+
+- 동물을 등록 시 메인화면에 지정한 동물의 사진이 등록
+- 하단 부분엔 간식,산책,밥,건강의 정보 저장 기능 구현
 
 **동물 간식, 산책, 밥등록**<br/>
 <img src="https://user-images.githubusercontent.com/72747781/115201466-51ee3580-a130-11eb-977e-8f28a36ceeed.png" height="600px"></img>
 
 **동물건강등록**<br/>
 <img src="https://user-images.githubusercontent.com/72747781/115201683-91b51d00-a130-11eb-9ba4-6d147b908d12.png" height="600px"></img>
+
+- #### 핸드폰 카메라 연동시켜 사진찍기
 
 
 
