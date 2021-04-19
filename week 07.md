@@ -58,13 +58,19 @@
 - 건강 버튼을 클릭 시 자신이 등록하고자 하는 건강에 관한 정보들을 저장 가능
 
 - ### 핸드폰 카메라 연동시켜 사진찍기
-<img src="https://user-images.githubusercontent.com/72747781/115206094-35a0c780-a135-11eb-8802-b3f3b0ac51e0.png" height="500px"></img>
-- 스마트폰으로 실행하였을때 실행은되나 버전이 맞지 않아 카메라 화면이 검정 화면으로 나옴 
+<img src="https://user-images.githubusercontent.com/72747781/115206094-35a0c780-a135-11eb-8802-b3f3b0ac51e0.png" height="600px"></img>
+- 스마트폰으로 실행하였을때 실행은되나 버전이 맞지 않아 카메라 화면이 검정 화면으로 나옴 ↑
 
-<img src="https://user-images.githubusercontent.com/72747781/115206132-3e919900-a135-11eb-9d1b-70636c1972d8.png" height="500px"></img>
-- 이후, 탭으로 재 실행한 결과 카메라 연동이 되어 촬영하면 바로 갤러리로 넘어가 찍은사진 혹은 그전에 있는 사진을 선택할 수 있음
+<img src="https://user-images.githubusercontent.com/72747781/115206132-3e919900-a135-11eb-9d1b-70636c1972d8.png" height="600px"></img>
+- 이후, 탭으로 재 실행한 결과 카메라 연동이 되어 촬영하면 바로 갤러리로 넘어가 찍은사진 혹은 그전에 있는 사진을 선택할 수 있음↑
 
-![image](https://user-images.githubusercontent.com/72747781/115209433-8bc33a00-a138-11eb-896d-fafbe9ebbe02.png)
+
+- ### 캘린더의 해당 날짜 클릭시 '건강'관련 부분 입력하게 만듦
+<img src="https://user-images.githubusercontent.com/72747781/115209433-8bc33a00-a138-11eb-896d-fafbe9ebbe02.png" height="600px"></img>
+- 캘린더에 해당 날짜를 클릭시 입력버튼을 누르면 반려동물의 건강에 관련하여 입력할 수 있음.
+
+
+
 
 
 
