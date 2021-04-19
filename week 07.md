@@ -58,13 +58,14 @@
 - 건강 버튼을 클릭 시 자신이 등록하고자 하는 건강에 관한 정보들을 저장 가능
 
 - ### 핸드폰 카메라 연동시켜 사진찍기
-![image](https://user-images.githubusercontent.com/72747781/115206094-35a0c780-a135-11eb-8802-b3f3b0ac51e0.png)
+<img src="https://user-images.githubusercontent.com/72747781/115206094-35a0c780-a135-11eb-8802-b3f3b0ac51e0.png" height="500px"></img>
+- 스마트폰으로 실행하였을때 실행은되나 버전이 맞지 않아 카메라 화면이 검정 화면으로 나옴 
 
-![image](https://user-images.githubusercontent.com/72747781/115206132-3e919900-a135-11eb-9d1b-70636c1972d8.png)
+<img src="https://user-images.githubusercontent.com/72747781/115206132-3e919900-a135-11eb-9d1b-70636c1972d8.png" height="500px"></img>
+- 이후, 탭으로 재 실행한 결과 카메라 연동이 되어 촬영하면 바로 갤러리로 넘어가 찍은사진 혹은 그전에 있는 사진을 선택할 수 있음
 
+<iframe width="956" height="538" src="https://user-images.githubusercontent.com/72747781/115207505-a1376480-a136-11eb-86c6-34713c127ddb.mp4"></ifrmae>
 
-
-https://user-images.githubusercontent.com/72747781/115207505-a1376480-a136-11eb-86c6-34713c127ddb.mp4
 
 
 
