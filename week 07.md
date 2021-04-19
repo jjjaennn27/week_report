@@ -39,14 +39,14 @@
 **동물정보등록**<br/>
 <img src="https://user-images.githubusercontent.com/72747781/115200814-94634280-a12f-11eb-9e12-a2ac570b36ed.png" height="700px"></img>
 
-**메인화면**<br/>
-<img src="https://user-images.githubusercontent.com/72747781/115201080-e015ec00-a12f-11eb-8745-820b482c6eab.png" height="700px"></img>
+**메인화면**<br/><br/>
+<img src="https://user-images.githubusercontent.com/72747781/115201080-e015ec00-a12f-11eb-8745-820b482c6eab.png" height="700px"></img><br/>
 
 **동물 간식, 산책, 밥등록**<br/>
-<img src="https://user-images.githubusercontent.com/72747781/115201466-51ee3580-a130-11eb-977e-8f28a36ceeed.png" height="700px"></img>
+<img src="https://user-images.githubusercontent.com/72747781/115201466-51ee3580-a130-11eb-977e-8f28a36ceeed.png" height="600px"></img>
 
 **동물건강등록**<br/>
-<img src="https://user-images.githubusercontent.com/72747781/115201683-91b51d00-a130-11eb-9ba4-6d147b908d12.png" height="700px"></img>
+<img src="https://user-images.githubusercontent.com/72747781/115201683-91b51d00-a130-11eb-9ba4-6d147b908d12.png" height="600px"></img>
 
 
 
