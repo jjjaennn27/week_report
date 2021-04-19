@@ -35,5 +35,5 @@
 
 ### 7주차 진행상황
 - #### UI통일
-
+![image](https://user-images.githubusercontent.com/72747781/115200221-efe10080-a12e-11eb-904d-003e42c1ab54.png)
 
