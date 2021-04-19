@@ -64,11 +64,7 @@
 <img src="https://user-images.githubusercontent.com/72747781/115206132-3e919900-a135-11eb-9d1b-70636c1972d8.png" height="500px"></img>
 - 이후, 탭으로 재 실행한 결과 카메라 연동이 되어 촬영하면 바로 갤러리로 넘어가 찍은사진 혹은 그전에 있는 사진을 선택할 수 있음
 
-<iframe width="956" height="538" src="https://user-images.githubusercontent.com/72747781/115207505-a1376480-a136-11eb-86c6-34713c127ddb.mp4"></ifrmae>
-
-##
-
-<iframe width="640" height="360" src="https://user-images.githubusercontent.com/72747781/115207505-a1376480-a136-11eb-86c6-34713c127ddb.mp4" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+![image](https://user-images.githubusercontent.com/72747781/115209433-8bc33a00-a138-11eb-896d-fafbe9ebbe02.png)
 
 
 
