@@ -35,5 +35,17 @@
 
 ### 7주차 진행상황
 - #### UI통일
-![image](https://user-images.githubusercontent.com/72747781/115200221-efe10080-a12e-11eb-904d-003e42c1ab54.png)
+
+** 동물정보등록**
+! [이미지] (https://user-images.githubusercontent.com/72747781/115200814-94634280-a12f-11eb-9e12-a2ac570b36ed.png)
+
+**메인화면**
+![image](https://user-images.githubusercontent.com/72747781/115201080-e015ec00-a12f-11eb-8745-820b482c6eab.png)
+
+** 동물 간식, 산책, 밥등록**
+![image](https://user-images.githubusercontent.com/72747781/115201466-51ee3580-a130-11eb-977e-8f28a36ceeed.png)
+
+** 동물건강등록**![image](https://user-images.githubusercontent.com/72747781/115201683-91b51d00-a130-11eb-9ba4-6d147b908d12.png)
+
+
 
