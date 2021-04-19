@@ -37,10 +37,10 @@
 - #### UI통일
 
 **동물정보등록**
-![image](https://user-images.githubusercontent.com/72747781/115200814-94634280-a12f-11eb-9e12-a2ac570b36ed.png)   
+<img src="https://user-images.githubusercontent.com/72747781/115200814-94634280-a12f-11eb-9e12-a2ac570b36ed.png" height="700px"></img>
 
 **메인화면**
-![image](https://user-images.githubusercontent.com/72747781/115201080-e015ec00-a12f-11eb-8745-820b482c6eab.png)
+<img src="https://user-images.githubusercontent.com/72747781/115201080-e015ec00-a12f-11eb-8745-820b482c6eab.png" height="700px"></img>
 
 **동물 간식, 산책, 밥등록**
 ![image](https://user-images.githubusercontent.com/72747781/115201466-51ee3580-a130-11eb-977e-8f28a36ceeed.png)
