@@ -43,10 +43,10 @@
 <img src="https://user-images.githubusercontent.com/72747781/115201080-e015ec00-a12f-11eb-8745-820b482c6eab.png" height="700px"></img>
 
 **동물 간식, 산책, 밥등록**<br/>
-![image](https://user-images.githubusercontent.com/72747781/115201466-51ee3580-a130-11eb-977e-8f28a36ceeed.png)
+<img src="https://user-images.githubusercontent.com/72747781/115201466-51ee3580-a130-11eb-977e-8f28a36ceeed.png" height="700px"></img>
 
 **동물건강등록**<br/>
-![image](https://user-images.githubusercontent.com/72747781/115201683-91b51d00-a130-11eb-9ba4-6d147b908d12.png)
+<img src="https://user-images.githubusercontent.com/72747781/115201683-91b51d00-a130-11eb-9ba4-6d147b908d12.png" height="700px"></img>
 
 
 
