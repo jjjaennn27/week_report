@@ -58,6 +58,10 @@
 - 건강 버튼을 클릭 시 자신이 등록하고자 하는 건강에 관한 정보들을 저장 가능
 
 - ### 핸드폰 카메라 연동시켜 사진찍기
+![image](https://user-images.githubusercontent.com/72747781/115206094-35a0c780-a135-11eb-8802-b3f3b0ac51e0.png)
+
+![image](https://user-images.githubusercontent.com/72747781/115206132-3e919900-a135-11eb-9d1b-70636c1972d8.png)
+
 
 
 
