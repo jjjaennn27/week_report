@@ -2,7 +2,7 @@
 ## 반려동물 앱 " 부탁해, 집사 !" 🐕 🐈
 <pre><code> [역할분담]   
     김민진, 신정은 - UI 디자인 파일들 합치기, 버튼 이벤트로 화면 전환 시키기
-    김현승, 임재은 - 보고서, 산책 메이트 찾기 (산책 메이트 찾기 게시판 , 현재 위치 지도에 좌표찍기)
+    김현승, 임재은 - 보고서, 산책 메이트 찾기 (산책 메이트 찾기 게시판 , 지도에 좌표찍기)
     이소윤, 진수현 - 캘린더 (사진 / 메모 추가 기능)
 </code></pre>
 
@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/70967826/116089618-03b3d600-a6de-11eb-96dc-7034799b3fd2.png" height="600px"></img>   
 - **산책 메이트 찾기 버튼을 눌렀을 때 -> 산책 메이트 찾기 게시판 (아직 게시판 기능은 미완성)**   
 <img src="https://user-images.githubusercontent.com/70967826/116089640-08788a00-a6de-11eb-9c63-a869ba58cd9c.png" height="600px"></img>
-- **근처 공원 찾기 버튼을 눌렀을 때 -> 본인 위치의 좌표를 찍어준다 (추후에 공공 데이터 API를 사용하여 근처 공원 표시 예정)**    
+- **근처 공원 찾기 버튼을 눌렀을 때 -> 지도 표시 (추후에 공공 데이터 API를 사용하여 근처 공원 표시 예정)**    
 <img src="https://user-images.githubusercontent.com/70967826/116089660-0c0c1100-a6de-11eb-9c62-549602cf7aee.png" height="600px"></img>   
 -**주요 코드 사진**    
 - MainActivity
