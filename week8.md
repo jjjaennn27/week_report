@@ -40,6 +40,9 @@ https://github.com/jjjaennn27/MyMap
 
 ### 버튼 클릭으로 화면 넘기기
 - **버튼을 누르면 화면을 전환시킴.**
+
+    강의 시간 내 배운 나침반 예제에서 사용한 case switch 문을 이용하여 코드를 작성하였다. 
+    
 - **주요 코드 사진<br/>**
 <img src="https://user-images.githubusercontent.com/70967826/116080857-8172e400-a6d4-11eb-9cf0-85ff832abd5c.png" height="600px"></img>
 <img src="https://user-images.githubusercontent.com/70967826/116080889-8c2d7900-a6d4-11eb-9376-210ee36b8d51.png" height="600px"></img>
