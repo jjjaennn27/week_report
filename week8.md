@@ -9,9 +9,9 @@
 ### 지도
 - **메인 화면**   
 <img src="https://user-images.githubusercontent.com/70967826/116089618-03b3d600-a6de-11eb-96dc-7034799b3fd2.png" height="600px"></img>   
-- **산책 메이트 찾기 화면**   
+- **산책 메이트 찾기 버튼을 눌렀을 때 -> 산책 메이트 찾기 게시판 (아직 게시판 기능은 미완성)**   
 <img src="https://user-images.githubusercontent.com/70967826/116089640-08788a00-a6de-11eb-9c63-a869ba58cd9c.png" height="600px"></img>
-- **본인 위치의 좌표를 찍어준다**    
+- **근처 공원 찾기 버튼을 눌렀을 때 -> 본인 위치의 좌표를 찍어준다**    
 <img src="https://user-images.githubusercontent.com/70967826/116089660-0c0c1100-a6de-11eb-9c62-549602cf7aee.png" height="600px"></img>   
 -**주요 코드 사진**    
 <img src="https://user-images.githubusercontent.com/70967826/116080931-994a6800-a6d4-11eb-8cc8-00ef655feee4.png" height="500px"></img>
