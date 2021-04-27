@@ -38,11 +38,13 @@ https://github.com/jjjaennn27/MyMap
 <img src="https://user-images.githubusercontent.com/70967826/116081394-2c839d80-a6d5-11eb-8253-80dec4e76f45.png" height="600px"></img>
 
 
-### 버튼 클릭으로 화면 넘기기
-- **버튼을 누르면 화면을 전환시킴.**
+### 버튼 클릭 이벤트로 화면 전환
+- **ImageButton에 switch case문을 사용하여 화면 전환**
 
-    강의 시간 내 배운 나침반 예제에서 사용한 case switch 문을 이용하여 코드를 작성하였다. 
+    강의 시간 내 배운 나침반 예제를 참고하여 switch case 문을 이용한 코드를 작성하였다.    
+    또한, ImageView에서 버튼 이벤트를 넣어주기 위하여 ImageButton을 이용하여 버튼을 만들 수 있도록 수정하였고,   
+    각 layout 디자인에 버튼 클릭 이벤트를 이용하기 위하여 코드를 똑같이 넣어주었다. 
     
 - **주요 코드 사진<br/>**
-<img src="https://user-images.githubusercontent.com/70967826/116080857-8172e400-a6d4-11eb-9cf0-85ff832abd5c.png" height="600px"></img>
 <img src="https://user-images.githubusercontent.com/70967826/116080889-8c2d7900-a6d4-11eb-9376-210ee36b8d51.png" height="600px"></img>
+<img src="https://user-images.githubusercontent.com/70967826/116080857-8172e400-a6d4-11eb-9cf0-85ff832abd5c.png" height="600px"></img>
