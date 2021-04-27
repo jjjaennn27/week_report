@@ -49,4 +49,4 @@ https://github.com/jjjaennn27/MyMap
     
 - **주요 코드 사진<br/>**
 <img src="https://user-images.githubusercontent.com/70967826/116080889-8c2d7900-a6d4-11eb-9376-210ee36b8d51.png" height="600px"></img>
-<img src="https://user-images.githubusercontent.com/70967826/116080857-8172e400-a6d4-11eb-9cf0-85ff832abd5c.png" height="600px"></img>
+<img src="https://user-images.githubusercontent.com/70967826/116080857-8172e400-a6d4-11eb-9cf0-85ff832abd5c.png" width="600px" height="600px"></img>
