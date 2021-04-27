@@ -14,7 +14,9 @@
 - **근처 공원 찾기 버튼을 눌렀을 때 -> 본인 위치의 좌표를 찍어준다**    
 <img src="https://user-images.githubusercontent.com/70967826/116089660-0c0c1100-a6de-11eb-9c62-549602cf7aee.png" height="600px"></img>   
 -**주요 코드 사진**    
+- MainActivity
 <img src="https://user-images.githubusercontent.com/70967826/116080931-994a6800-a6d4-11eb-8cc8-00ef655feee4.png" height="500px"></img>
+- MapsActivity
 <img src="https://user-images.githubusercontent.com/70967826/116080942-9bacc200-a6d4-11eb-8c18-db008602ee11.png" height="500px"></img>   
 https://github.com/jjjaennn27/MyMap
 ### 캘린더
