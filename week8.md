@@ -43,7 +43,9 @@ https://github.com/jjjaennn27/MyMap
 
     강의 시간 내 배운 나침반 예제를 참고하여 switch case 문을 이용한 코드를 작성하였다.    
     또한, ImageView에서 버튼 이벤트를 넣어주기 위하여 ImageButton을 이용하여 버튼을 만들 수 있도록 수정하였고,   
-    각 layout 디자인에 버튼 클릭 이벤트를 이용하기 위하여 코드를 똑같이 넣어주었다. 
+    각 layout 디자인에 버튼 클릭 이벤트를 이용하기 위하여 코드를 똑같이 넣어주었다.    
+    
+    https://github.com/Kim-Min-Jin-19/UIDesign/commit/ae86be29b8bfcb1bf5d0da22e9f791b7c1131b1d
     
 - **주요 코드 사진<br/>**
 <img src="https://user-images.githubusercontent.com/70967826/116080889-8c2d7900-a6d4-11eb-9376-210ee36b8d51.png" height="600px"></img>
