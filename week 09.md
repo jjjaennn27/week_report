@@ -1,6 +1,6 @@
 # week9
 
-## 반려동물 앱 "부탁해, 집사 !" 🐕 🐈 (https://github.com/jjjaennn27/Login_Animal)
+# 반려동물 앱 "부탁해, 집사 !" 🐕 🐈 (https://github.com/jjjaennn27/Login_Animal)
 <pre><code> [역할분담]   
 
     산책 메이트 찾기 기능 (구글 맵에서 현재 위치 확인하기, 근처 공원들 마커로 표시하기) : 임재은, 진수현
@@ -8,7 +8,7 @@
 
 </code></pre>
 
-#### 산책 메이트 찾기 기능 (https://github.com/jjjaennn27/MyMap210502)
+# 산책 메이트 찾기 기능 (https://github.com/jjjaennn27/MyMap210502)
 
 ## [산책 메이트 찾기 기능] - AVD 실행 화면
 ![image](https://user-images.githubusercontent.com/79950380/116843904-60eae280-ac1c-11eb-886b-b08d1ebe73af.png)
