@@ -8,7 +8,7 @@
 
 </code></pre>
 
-### 산책 메이트 찾기 기능 (https://github.com/jjjaennn27/MyMap210502)
+#### 산책 메이트 찾기 기능 (https://github.com/jjjaennn27/MyMap210502)
 
 ## [산책 메이트 찾기 기능] - AVD 실행 화면
 ![image](https://user-images.githubusercontent.com/79950380/116843904-60eae280-ac1c-11eb-886b-b08d1ebe73af.png)
