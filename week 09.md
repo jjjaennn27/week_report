@@ -90,4 +90,6 @@
 * 서버에 가입할 때 입력했던 정보가 저장 됨
 
 
+## 프로젝트 파일 합치기 (https://github.com/jjjaennn27/Login_Animal)
+![image](https://user-images.githubusercontent.com/79950380/116847849-5d5c5900-ac26-11eb-9b74-015827d79dcf.png)
 
