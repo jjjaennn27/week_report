@@ -87,7 +87,7 @@
 
 ![image](https://user-images.githubusercontent.com/79950380/116847388-63056f00-ac25-11eb-8c85-2b1666d32dc1.png)
 
-서버에 가입할 때 입력했던 정보가 저장 됨
+* 서버에 가입할 때 입력했던 정보가 저장 됨
 
 
 
