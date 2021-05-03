@@ -62,6 +62,9 @@
 
 ## 가족 연동 로그인 기능
 
+### [변동 사항]
+* 파일질라를 사용한 phpMyAdmin(MySQL) 서버 -> 파이어베이스
+
 ### [가족 연동 로그인 기능 : 로그인 / 회원가입] - AVD 실행 화면
 
 ![image](https://user-images.githubusercontent.com/79950380/116847086-cc38b280-ac24-11eb-9df8-062d4dd931ac.png)
