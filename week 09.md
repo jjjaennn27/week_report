@@ -1,6 +1,6 @@
 # week9
 
-# 반려동물 앱 "부탁해, 집사 !" 🐕 🐈 (https://github.com/jjjaennn27/Login_Animal)
+## 반려동물 앱 "부탁해, 집사 !" 🐕 🐈 (https://github.com/jjjaennn27/Login_Animal)
 <pre><code> [역할분담]   
 
     산책 메이트 찾기 기능 (구글 맵에서 현재 위치 확인하기, 근처 공원들 마커로 표시하기) : 임재은, 진수현
@@ -8,9 +8,9 @@
 
 </code></pre>
 
-# 산책 메이트 찾기 기능 (https://github.com/jjjaennn27/MyMap210502)
+## 산책 메이트 찾기 기능 (https://github.com/jjjaennn27/MyMap210502)
 
-## [산책 메이트 찾기 기능] - AVD 실행 화면
+### [산책 메이트 찾기 기능] - AVD 실행 화면
 ![image](https://user-images.githubusercontent.com/79950380/116843904-60eae280-ac1c-11eb-886b-b08d1ebe73af.png)
 
 **1. 어플 실행 시**  
@@ -33,7 +33,7 @@
 **4. 마커 클릭 시**   
 * 공원에 표시된 마커를 클릭하면 공원 이름과 위치 정보가 뜸
 
-## [산책 메이트 찾기 기능] - 갤럭시 탭 실행 화면
+### [산책 메이트 찾기 기능] - 갤럭시 탭 실행 화면
 ![image](https://user-images.githubusercontent.com/79950380/116844377-e8852100-ac1d-11eb-8ceb-fa3eaf9da8d1.png)
 
 **1. 어플 실행 시**  
@@ -56,4 +56,5 @@
 **4. 마커 클릭 시**   
 * 공원에 표시된 마커를 클릭하면 공원 이름과 위치 정보가 뜸
 
-## [가족 연동 로그인 기능]
+## 가족 연동 로그인 기능
+### [가족 연동 로그인 기능]
