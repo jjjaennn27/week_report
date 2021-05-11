@@ -28,7 +28,7 @@
  
  
  ### ※ [가족구성원을 직접 입력하여 추가] - AVD 실행 화면
- <img src="https://user-images.githubusercontent.com/72747781/117762433-1ee91e80-b264-11eb-95bb-3c8e22cff9d0.png" height="550px"></img>
+ <img src="https://user-images.githubusercontent.com/72747781/117762433-1ee91e80-b264-11eb-95bb-3c8e22cff9d0.png" height="600px"></img>
 
 
 ###  ※ ArrayList로 Spinner 만들어 입력받은 구성원 표시
