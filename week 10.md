@@ -30,7 +30,7 @@
  ## 가족 구성원 직접 추가 (https://github.com/leesoyuun/Login_Net)
  
  ### ※ [가족구성원을 직접 입력하여 추가] - AVD 실행 화면
- <img src="https://user-images.githubusercontent.com/72747781/117762433-1ee91e80-b264-11eb-95bb-3c8e22cff9d0.png" height="600px"></img>
+ <img src="https://user-images.githubusercontent.com/72747781/117762433-1ee91e80-b264-11eb-95bb-3c8e22cff9d0.png" height="550px"></img>
  
 
 **어플 실행 및 동작**  
