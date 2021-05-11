@@ -13,7 +13,14 @@
 ### Progress관리
 ![image](https://user-images.githubusercontent.com/72747781/117760924-72a63880-b261-11eb-9d22-66ece4b437a1.png)
 
+## 가족구성원 표시 (https://github.com/leesoyuun/MyRecyclerView)
 
-## My RecyclerView - 구성원 등록
+### [Recyclerview를 사용하여 가족구성원 표시] - AVD 실행 화면
 <img src="https://user-images.githubusercontent.com/72747781/117760528-c2d0cb00-b260-11eb-95ef-1e963285ada0.png" height="550px"></img>
 
+
+**어플 실행 및 동작**  
+* 가족구성원의 이름, 나이 그리고 반려동물의 이름을 확일할 수 있음.
+* 가족구성원을 클릭하면 toast 메시지로 반려동물의 이름이 나옴.
+
+ex. (반려동물의 이름) + 언니 = 알쏭이의 언니
