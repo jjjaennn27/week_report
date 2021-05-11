@@ -14,8 +14,11 @@
 ## Progress 관리
 ![image](https://user-images.githubusercontent.com/72747781/117760924-72a63880-b261-11eb-9d22-66ece4b437a1.png)
 
-**현재까지 상황**
+**현재 진행 상태**
  * 로그인과 회원가입기능은 100%로 구현 성공하였지만 가족연동에 있어 어떤방법을 사용할지 아직 완성하지 못한 단계이며 돌봄기능에선 캘린더와 공원찾기 기능을 완벽하게 구현한 상태 
+
+**11주차 진행 계획**
+* 
 
 ## 가족구성원 표시(https://github.com/leesoyuun/MyRecyclerView)
 
