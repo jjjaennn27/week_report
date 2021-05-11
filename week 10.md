@@ -16,7 +16,7 @@
 
 ## 가족구성원 표시 (https://github.com/leesoyuun/MyRecyclerView)
 
-### [Recyclerview를 사용하여 가족구성원 표시] - AVD 실행 화면
+###  ※[Recyclerview를 사용하여 가족구성원 표시] - AVD 실행 화면
 <img src="https://user-images.githubusercontent.com/72747781/117760528-c2d0cb00-b260-11eb-95ef-1e963285ada0.png" height="550px"></img>
 
 
@@ -27,7 +27,7 @@
  ex. (반려동물의 이름) + 언니 = 알쏭이의 언니
  
  
- ### [가족구성원을 직접 입력하여 추가] - AVD 실행 화면
+ ### ※[가족구성원을 직접 입력하여 추가] - AVD 실행 화면
 
 
-### ArrayList로 Spinner 만들어 구성원을 직접 추가
+###  ※ArrayList로 Spinner 만들어 구성원을 직접 추가
