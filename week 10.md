@@ -36,7 +36,9 @@
 **어플 실행 및 동작**  
 * 가족구성원의 이름을 직접 입력하여 화면에 추가할 수 있도록 만듦.
 
-###  ※ ArrayList로 Spinner 만들어 입력받은 구성원 표시(https://github.com/leesoyuun/Spinner)
+## ArrayList로 Spinner 만들어 입력받은 구성원 표시(https://github.com/leesoyuun/Spinner)
+
+### ※ [입력받은 구성원 선택하여 추가] - AVD 실행 화면
  <img src="https://user-images.githubusercontent.com/72747781/117763313-93708d00-b265-11eb-839b-a07b3de613c3.png" height="600px"></img>
 
 **어플 실행 및 동작**  
