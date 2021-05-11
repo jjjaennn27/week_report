@@ -10,4 +10,6 @@
 
 </code></pre>
 
-## 산책 메이트 찾기 기능 (https://github.com/jjjaennn27/MyMap210502)
+## My RecyclerView - 구성원 등록
+![image](https://user-images.githubusercontent.com/72747781/117759780-573a2e00-b25f-11eb-942a-087aa2d4bbbb.png)
+
