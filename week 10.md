@@ -15,5 +15,5 @@
 
 
 ## My RecyclerView - 구성원 등록
-<img src="https://user-images.githubusercontent.com/72747781/117760528-c2d0cb00-b260-11eb-95ef-1e963285ada0.png"></img>
+<img src="https://user-images.githubusercontent.com/72747781/117760528-c2d0cb00-b260-11eb-95ef-1e963285ada0.png" height="600px"></img>
 
