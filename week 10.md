@@ -10,8 +10,9 @@
 
 </code></pre>
 
-## Progress
+## Progress 관리
 ![image](https://user-images.githubusercontent.com/72747781/117760924-72a63880-b261-11eb-9d22-66ece4b437a1.png)
+
 
 ## 가족구성원 표시 (https://github.com/leesoyuun/MyRecyclerView)
 
