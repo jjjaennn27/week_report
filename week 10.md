@@ -14,7 +14,7 @@
 ![image](https://user-images.githubusercontent.com/72747781/117760924-72a63880-b261-11eb-9d22-66ece4b437a1.png)
 
 
-## 가족구성원 표시 (https://github.com/leesoyuun/MyRecyclerView)
+## 가족구성원 표시(https://github.com/leesoyuun/MyRecyclerView)
 
 ###  ※ [Recyclerview를 사용하여 가족구성원 표시] - AVD 실행 화면
 <img src="https://user-images.githubusercontent.com/72747781/117760528-c2d0cb00-b260-11eb-95ef-1e963285ada0.png" height="550px"></img>
@@ -38,4 +38,4 @@
 ###  ※ ArrayList로 Spinner 만들어 입력받은 구성원 표시(https://github.com/leesoyuun/Spinner)
 **어플 실행 및 동작**  
 * 입력받은 가족 구성원들을 Spinner로 만들어 산책 및 밥주기 등등 어떤 가족 구성원이 했는지 알아야할때 Spinner를 통하여 입력할 수 있도록함.
-*
+
