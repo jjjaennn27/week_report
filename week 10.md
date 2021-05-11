@@ -11,7 +11,7 @@
 </code></pre>
 
 ### Progress관리
-![image](https://user-images.githubusercontent.com/72747781/117760129-0f67d680-b260-11eb-8176-080f57f7f48d.png)
+![image](https://user-images.githubusercontent.com/72747781/117760798-41c60380-b261-11eb-8b0a-3fafff5ac194.png)
 
 
 ## My RecyclerView - 구성원 등록
