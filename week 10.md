@@ -36,7 +36,7 @@
 * 가족구성원의 이름을 직접 입력하여 화면에 추가할 수 있도록 만듦.
 
 ###  ※ ArrayList로 Spinner 만들어 입력받은 구성원 표시(https://github.com/leesoyuun/Spinner)
- <img src="https://user-images.githubusercontent.com/72747781/117762433-1ee91e80-b264-11eb-95bb-3c8e22cff9d0.png" height="600px"></img>
+ <img src="https://user-images.githubusercontent.com/72747781/117763313-93708d00-b265-11eb-839b-a07b3de613c3.png" height="600px"></img>
 
 **어플 실행 및 동작**  
 * 입력받은 가족 구성원들을 Spinner로 만들어 산책 및 밥주기 등등 어떤 가족 구성원이 했는지 알아야할때 Spinner를 통하여 입력할 수 있도록함.
