@@ -11,7 +11,7 @@
 </code></pre>
 
 ## Progress 관리
-![image](https://user-images.githubusercontent.com/79950103/118531905-52a2d780-b781-11eb-932a-456589463a1e.png)
+![image](https://user-images.githubusercontent.com/79950103/118532057-8251df80-b781-11eb-941d-019a15a76d27.png)
 
 ### <현재 진행 상태 / 앞으로의 진행 계획>
 - 가족연동
