@@ -65,10 +65,26 @@
 - 산책 정보 입력 코드
 
 ![image](https://user-images.githubusercontent.com/79950380/119348160-71502380-bcd7-11eb-930c-3c6146fe3145.png)
-- 스피너 -> 텍스트로 변환 
+- 스피너 -> 텍스트로 변환 코드
 
 ![image](https://user-images.githubusercontent.com/79950380/119348098-62697100-bcd7-11eb-938b-a8c4a3605b94.png)
 - 파이어베이스 연결 코드
 
+### 간식 정보 입력 실행 화면
+![image](https://user-images.githubusercontent.com/79950103/119348611-13700b80-bcd8-11eb-9c6d-8994a4f0732d.png)
+1. 초기 화면
+2. 스피너를 사용하여 정보 입력
+3. 등록 버튼을 눌렀을 때
 
+### 파이어베이스에 간식 정보 등록
+![image](https://user-images.githubusercontent.com/79950103/119348672-27b40880-bcd8-11eb-84b7-d8f45415c38f.png)
 
+### 주요 코드
+![image](https://user-images.githubusercontent.com/79950103/119348802-50d49900-bcd8-11eb-9f32-3f9add8a6a20.png)
+- 간식 정보 입력 코드
+
+![image](https://user-images.githubusercontent.com/79950103/119348828-5af69780-bcd8-11eb-88cd-007ece5495e6.png)
+- 스피너 -> 텍스트로 변환 코드
+
+![image](https://user-images.githubusercontent.com/79950103/119348954-7d88b080-bcd8-11eb-9244-62dfe85c5340.png)
+- 파이어베이스 연결 코드
