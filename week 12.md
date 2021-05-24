@@ -39,7 +39,6 @@
 > ![image](https://user-images.githubusercontent.com/72747781/119343453-70b48e80-bcd1-11eb-881d-0976b46e1970.png)
 
 - 실시간으로 파이어 베이스에 가족 정보 저장
-- 
  ![image](https://user-images.githubusercontent.com/72747781/119343564-96da2e80-bcd1-11eb-90fb-f807963c5c87.png)
 
 
