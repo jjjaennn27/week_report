@@ -88,3 +88,17 @@
 
 ![image](https://user-images.githubusercontent.com/79950103/119348954-7d88b080-bcd8-11eb-9244-62dfe85c5340.png)
 - 파이어베이스 연결 코드
+
+# 네비게이션바로 묶기 - 김현승
+(https://github.com/kkhhss9/HelloKotlin/tree/custumnavi/CustumNavi)
+## 네비게이션바   
+<img src="https://user-images.githubusercontent.com/70967826/119346981-dc005f80-bcd5-11eb-9735-5520c627bb3d.png" width="400px" height="600px"></img>
+<img src="https://user-images.githubusercontent.com/70967826/119346995-e15daa00-bcd5-11eb-982b-8736d12e6f4a.png" width="400px" height="600px"></img>
+## 눌렀을때 화면
+<img src="https://user-images.githubusercontent.com/70967826/119347004-e4f13100-bcd5-11eb-9810-a6a33f67e38f.png" width="400px" height="600px"></img>
+<img src="https://user-images.githubusercontent.com/70967826/119347020-e7ec2180-bcd5-11eb-9131-4feb15b29003.png" width="400px" height="600px"></img>
+<img src="https://user-images.githubusercontent.com/70967826/119347042-ef132f80-bcd5-11eb-9c9e-d07349a36ed7.png" width="400px" height="600px"></img>
+<img src="https://user-images.githubusercontent.com/70967826/119347057-f20e2000-bcd5-11eb-8a18-4f68dec67ee1.png" width="400px" height="600px"></img>
+### 주요 코드    
+<img src="https://user-images.githubusercontent.com/70967826/119347083-fb978800-bcd5-11eb-96e5-a766958c7748.png" width="400px" height="600px"></img>
+<img src="https://user-images.githubusercontent.com/70967826/119347068-f5a1a700-bcd5-11eb-80e8-6d8555db5086.png" width="400px" height="600px"></img>
