@@ -21,4 +21,6 @@
 ### 왼쪽 눈 버튼 클릭
 ![5](https://user-images.githubusercontent.com/79950254/119309791-bd846f00-bca9-11eb-9dd1-13a6eb70322f.png)
 - 게시판 목록들 보기 가능
+ 
+![hfghfhg](https://user-images.githubusercontent.com/79950254/119317756-6aafb500-bcb3-11eb-8ad8-c468d836fa6f.PNG)
 
