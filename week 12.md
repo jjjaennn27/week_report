@@ -25,9 +25,7 @@
 ![hfghfhg](https://user-images.githubusercontent.com/79950254/119317756-6aafb500-bcb3-11eb-8ad8-c468d836fa6f.PNG)
 
 # 가족정보를 입력,저장 및 불러오기 - 이소윤, 신정은
-### 초기 화면
 (https://github.com/leesoyuun/popup/commit/fdca38be57d5e0295db327e9bf5364bc4e891fb1)
-![image](https://user-images.githubusercontent.com/72747781/119343066-e704c100-bcd0-11eb-96ed-5c6afa1f4b3a.png)
 
 ### 초기 화면
 
