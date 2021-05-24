@@ -49,3 +49,26 @@
 # 산책/간식 스피너로 입력한 정보 파이어베이스에 저장 - 김민진, 임재은
 (산책 - https://github.com/jjjaennn27/Pet_Walking)
 (간식 - https://github.com/Kim-Min-Jin-19/Pet_Snack)
+
+
+### 산책 정보 입력 실행 화면
+![image](https://user-images.githubusercontent.com/79950380/119347740-e7a05600-bcd6-11eb-9e5e-3305e82c8e03.png)
+- 1. 초기 화면
+- 2. 스피너를 사용하여 정보 입력
+- 3. 등록 버튼을 눌렀을 때
+
+### 파이어베이스에 산책 정보 등록
+![image](https://user-images.githubusercontent.com/79950380/119347863-128aaa00-bcd7-11eb-8d26-c699783390ec.png)
+
+### 주요 코드
+![image](https://user-images.githubusercontent.com/79950380/119348058-55e51880-bcd7-11eb-928b-99e429e67fec.png)
+- 산책 정보 입력 코드
+
+![image](https://user-images.githubusercontent.com/79950380/119348160-71502380-bcd7-11eb-930c-3c6146fe3145.png)
+- 스피너 -> 텍스트로 변환 
+
+![image](https://user-images.githubusercontent.com/79950380/119348098-62697100-bcd7-11eb-938b-a8c4a3605b94.png)
+- 파이어베이스 연결 코드
+
+
+
