@@ -53,9 +53,9 @@
 
 ### 산책 정보 입력 실행 화면
 ![image](https://user-images.githubusercontent.com/79950380/119347740-e7a05600-bcd6-11eb-9e5e-3305e82c8e03.png)
-- 1. 초기 화면
-- 2. 스피너를 사용하여 정보 입력
-- 3. 등록 버튼을 눌렀을 때
+1. 초기 화면
+2. 스피너를 사용하여 정보 입력
+3. 등록 버튼을 눌렀을 때
 
 ### 파이어베이스에 산책 정보 등록
 ![image](https://user-images.githubusercontent.com/79950380/119347863-128aaa00-bcd7-11eb-8d26-c699783390ec.png)
