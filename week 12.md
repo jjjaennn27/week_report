@@ -29,6 +29,7 @@
 (https://github.com/leesoyuun/popup/commit/fdca38be57d5e0295db327e9bf5364bc4e891fb1)
 ![image](https://user-images.githubusercontent.com/72747781/119343066-e704c100-bcd0-11eb-96ed-5c6afa1f4b3a.png)
 
-- 가족 정보 입력 코드
-![image](https://user-images.githubusercontent.com/72747781/119343249-26cba880-bcd1-11eb-867e-c0e5bd442008.png)
+- 주요코드
+> 가족 정보 입력
+> ![image](https://user-images.githubusercontent.com/72747781/119343249-26cba880-bcd1-11eb-867e-c0e5bd442008.png)
 
