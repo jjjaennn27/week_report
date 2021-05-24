@@ -13,7 +13,7 @@
 ![ㅀ](https://user-images.githubusercontent.com/79950254/119316221-a9447000-bcb1-11eb-97bd-287704fa0232.PNG)
 ![데이터저장](https://user-images.githubusercontent.com/79950254/119316254-b95c4f80-bcb1-11eb-8867-83ab4a4f6e32.PNG)
 - 각 입력값  BoardRef.push().setValue(board); 에 넣기
-- listBundle.add(board); 리사이클러뷰에 나타내기 위해 리스트에 저장
+- listBundle.add(board); 입력된 값들 가져와 리사이클러뷰에 나타내기 위해 리스트에 저장
 - adapter.notifyDataSetChanged(); 새로운 데이터 추가 및 삭제 보여줌
 - listBundle.clear(); 중복으로 리사이클러뷰에 나오지 않게 기존 데이터 삭제
 - 저장되었습니다 Toast 메세지 발생
