@@ -44,3 +44,6 @@
 
 ![image](https://user-images.githubusercontent.com/72747781/119345057-5ed3eb00-bcd3-11eb-9d80-7cb3baf1f29e.png)
 
+
+
+# 산책 / 간식 등록 파이어베이스 저장 - 김민진, 임재은
