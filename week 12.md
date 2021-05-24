@@ -30,6 +30,13 @@
 ![image](https://user-images.githubusercontent.com/72747781/119343066-e704c100-bcd0-11eb-96ed-5c6afa1f4b3a.png)
 
 - 주요코드
-> 가족 정보 입력
+> 가족 정보 입력, 저장
 > ![image](https://user-images.githubusercontent.com/72747781/119343249-26cba880-bcd1-11eb-867e-c0e5bd442008.png)
+> 가족 정보 불러오기
+> ![image](https://user-images.githubusercontent.com/72747781/119343453-70b48e80-bcd1-11eb-881d-0976b46e1970.png)
+> 파이어베이스에 저장된 가족 정보
+
+- 실시간으로 파이어 베이스에 가족 정보 저장
+- ![image](https://user-images.githubusercontent.com/72747781/119343564-96da2e80-bcd1-11eb-90fb-f807963c5c87.png)
+
 
