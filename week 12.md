@@ -24,5 +24,6 @@
  
 ![hfghfhg](https://user-images.githubusercontent.com/79950254/119317756-6aafb500-bcb3-11eb-8ad8-c468d836fa6f.PNG)
 
-# 로그인 데이터 저장, 불러오기 - 이소윤, 신정은
+# 가족정보를 입력,저장 및 불러오기 - 이소윤, 신정은
 (https://github.com/leesoyuun/popup/commit/fdca38be57d5e0295db327e9bf5364bc4e891fb1)
+
