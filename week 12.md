@@ -47,3 +47,5 @@
 
 
 # 산책 / 간식 등록 파이어베이스 저장 - 김민진, 임재은
+(산책 - https://github.com/jjjaennn27/Pet_Walking)
+(간식 - https://github.com/Kim-Min-Jin-19/Pet_Snack)
