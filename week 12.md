@@ -29,9 +29,20 @@
 (https://github.com/leesoyuun/popup/commit/fdca38be57d5e0295db327e9bf5364bc4e891fb1)
 ![image](https://user-images.githubusercontent.com/72747781/119343066-e704c100-bcd0-11eb-96ed-5c6afa1f4b3a.png)
 
+### 초기 화면
 
-- 가족 정보 입력 코드
+![image](https://user-images.githubusercontent.com/72747781/119344793-0866ac80-bcd3-11eb-909f-bb8e0a0673e6.png)
 
+- 주요 코드
+> 가족 정보 입력, 저장
+>
+>![image](https://user-images.githubusercontent.com/72747781/119344871-2502e480-bcd3-11eb-99c6-92ad8c648d65.png)
+>
+> 가족 정보 불러오기
+>
+>![image](https://user-images.githubusercontent.com/72747781/119344955-3ea42c00-bcd3-11eb-8d16-3da2e3d89144.png)
 
-![image](https://user-images.githubusercontent.com/72747781/119343249-26cba880-bcd1-11eb-867e-c0e5bd442008.png)
+- 실시간으로 파이어 베이스에 가족 정보 저장
+
+![image](https://user-images.githubusercontent.com/72747781/119345057-5ed3eb00-bcd3-11eb-9d80-7cb3baf1f29e.png)
 
