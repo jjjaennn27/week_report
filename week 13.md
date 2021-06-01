@@ -34,7 +34,7 @@
 ![image](https://user-images.githubusercontent.com/79950380/120304037-5e0e0b00-c30a-11eb-9aea-d2c668086455.png)
 
 ## 파이어베이스에서 스피너로 데이터 가져오기 (50%) : 김민진, 임재은
-### 주요 코드 (파이어베이스에서 이름 데이터 가져오기)
+### 주요 코드 (파이어베이스에서 이름 데이터 스피너로 가져오기)
 ![image](https://user-images.githubusercontent.com/79950380/120305555-d923f100-c30b-11eb-8632-bda24185d016.png)
 
 
