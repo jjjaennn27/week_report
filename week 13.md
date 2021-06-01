@@ -7,7 +7,7 @@
    ② 밥/간식/산책 파이어베이스에 저장된 목록 AVD에 띄우기 (50%): 김민진, 임재은
    ③ 파이어베이스에서 스피너로 데이터 가져오기 (50%) : 김민진, 임재은
    ④ 동물등록 사진과 정보 파이어베이스 저장(80%) : 이소윤, 진수현, 신정은
-   ⑤  :
+   ⑤ UI에 슬라이드 메뉴바 넣기 : 
    ⑥  :
    ⑦  :
   
@@ -64,4 +64,12 @@
 ![d - 복사본](https://user-images.githubusercontent.com/79950254/120316073-fc549d80-c317-11eb-9397-fc4a386deaa9.PNG)
 현재 사진을 클릭하면 갤러리가 뜨며, 안드로이드 스튜디오 버전이 업그레이드가 되어 문제를 해결해나가고있다.
 
-
+## UI에 슬라이드 메뉴바 넣기 - 김현승   
+주요 UI에 슬라이드바를 넣어 편의성을 
+![image](https://user-images.githubusercontent.com/70967826/120325701-e13b5b00-c322-11eb-809d-fc5b1d303458.png)
+![image](https://user-images.githubusercontent.com/70967826/120325716-e5677880-c322-11eb-8a5b-57f61024495e.png)     
+![image](https://user-images.githubusercontent.com/70967826/120325728-e9939600-c322-11eb-81ed-bc851e7fd9a2.png)
+![image](https://user-images.githubusercontent.com/70967826/120325751-edbfb380-c322-11eb-9104-062c474f5b21.png)
+### 주요코드    
+![image](https://user-images.githubusercontent.com/70967826/120326202-7179a000-c323-11eb-8a30-f6314cd61e17.png)
+![image](https://user-images.githubusercontent.com/70967826/120326215-74749080-c323-11eb-8180-422ec6a7051a.png)
