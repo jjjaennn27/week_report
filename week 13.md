@@ -17,12 +17,17 @@
 ## 밥/간식/산책 입력 실시간 시간 파이어베이스 저장 : 김민진, 임재은
 
 ### 밥
+![image](https://user-images.githubusercontent.com/79950380/120304424-bb09c100-c30a-11eb-9b2f-6fb372f74fe2.png)
+1. 초기화면
+2. NOW 버튼 클릭 -> 현재 날짜와 시간이 표시
+3. 등록 버튼 클릭 -> '오늘의 밥 정보 등록 완료'로 텍스트 변하며 파이어베이스에 저장
 
 ### 산책
 
 ### 간식
 
 ### 주요 코드 (현재 날짜와 시간 파이어베이스에 저장)
-![image](https://user-images.githubusercontent.com/79950380/120303818-28692200-c30a-11eb-8f15-a9fefa42b44e.png)
+![image](https://user-images.githubusercontent.com/79950380/120304037-5e0e0b00-c30a-11eb-9aea-d2c668086455.png)
+
 
 
