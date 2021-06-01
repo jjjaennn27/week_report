@@ -65,7 +65,7 @@
 현재 사진을 클릭하면 갤러리가 뜨며, 안드로이드 스튜디오 버전이 업그레이드가 되어 문제를 해결해나가고있다.
 
 ## UI에 슬라이드 메뉴바 넣기 - 김현승   
-주요 UI에 슬라이드바를 넣어 편의성을 
+주요 UI에 슬라이드바를 넣어 편의성을 높였다      
 ![image](https://user-images.githubusercontent.com/70967826/120325701-e13b5b00-c322-11eb-809d-fc5b1d303458.png)
 ![image](https://user-images.githubusercontent.com/70967826/120325716-e5677880-c322-11eb-8a5b-57f61024495e.png)     
 ![image](https://user-images.githubusercontent.com/70967826/120325728-e9939600-c322-11eb-81ed-bc851e7fd9a2.png)
