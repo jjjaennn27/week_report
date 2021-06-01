@@ -58,6 +58,7 @@
 ![d - 복사본](https://user-images.githubusercontent.com/79950254/120315012-d7135f80-c316-11eb-9737-6bb9fc3290cd.PNG)
 ### 사진 파이어베이스 저장 (50%) : 신정은 ,이소윤, 진수현
 
+![d - 복사본](https://user-images.githubusercontent.com/79950254/120316073-fc549d80-c317-11eb-9397-fc4a386deaa9.PNG)
 
 
 
