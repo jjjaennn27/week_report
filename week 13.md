@@ -1,6 +1,6 @@
 #  week 13
 
-## 반려동물 앱 "부탁해, 집사 !" 🐕 🐈 ( https://github.com/jjjaennn27/Pet_Dairy )
+## 반려동물 앱 "부탁해, 집사 !" 🐕 🐈 ( 전체 코드 https://github.com/jjjaennn27/Pet_Dairy )
 <pre> <code> [역할 분담] - 앱 기능에 대한 세부적인 기능 구현
 
    ① 밥/간식/산책 입력 현재 날짜와 시간 파이어베이스에 저장 : 김민진, 임재은
